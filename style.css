@@ -1,0 +1,25 @@
+#main{
+    text-align: center;
+    border: 15px groove #0f0;
+    /* height: 630px; */
+    font-family: cursive;
+    border-radius: 10px 50px;
+    padding: 10px;
+    background-color: #fff;
+}
+ input[type=submit]{
+    height: 50px;
+    width: 150px;
+    font-family: cursive;
+    margin: 20px 110px;
+    margin-bottom: 10px;
+}
+/*
+input[type=submit]:hover{
+    background-color: #0f0;
+} */
+input[type=text]{
+    font-family: cursive;
+    text-align: center;
+    margin-top: 30px;
+}
